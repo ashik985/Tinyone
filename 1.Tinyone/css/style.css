@@ -1,0 +1,139 @@
+*{
+
+font-family: font-family: 'PT Sans', sans-serif;
+
+}
+
+/* header start */
+header{
+	background: #fcdb00;
+	padding: 10px 0;
+}
+.menu ul li a{
+	font-weight: 700;
+	font-size: 22px;
+	color: #010101 !important;
+
+	}
+.menu ul{
+    margin-left: auto;
+}
+.menu ul li{	
+    margin: 5px;	
+    padding: 0 20px;
+}
+/* header end*/
+
+
+/* slider start*/
+.slider{
+    background: #fcdb00;
+
+}
+.inspire ul li img{
+	font-size: 40px;
+	padding: 15px;
+}
+.inspire{
+    color: #010101;
+    margin-top: 70px;
+    margin-left: 22px;
+}
+.inspire h1{
+  font-size: 32px;
+  margin-bottom: 30px;
+  font-weight: 800;
+}
+.inspire h3{
+	font-size: 22px;
+    
+}
+.tab{
+	padding: 40px;
+	margin-left: 60px;
+	margin-bottom: 20px;
+}
+
+
+
+/* slider End*/
+
+/* Features Start*/
+
+
+.title{
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+.title h1{
+	font-size: 32px;
+	font-weight: 700;
+	color: #010101;
+}
+.title p{
+	font-size: 20px;
+}
+
+.icon img{
+   width: 30%;
+   padding-top: 10px;
+
+}
+.content{
+	padding-bottom: 80px;
+}
+.content h1{
+	font-size: 32px;
+	font-weight: 700;
+}
+.content p{
+	font-size: 16px;
+}
+
+
+
+
+/* Features End*/
+
+/* Contact Start*/
+
+
+.contact{
+	padding: 60px 0;
+	background-color: black;
+}
+input{
+	padding: 10px 15px;
+	color: grey;
+}
+.btn-custom{
+	padding: 10px 15px;
+	font-size: 15px;
+	font-weight: 600;
+	color: black;
+	background-color: yellow;
+	text-transform: uppercase;
+}
+
+
+/* Contact End*/
+
+
+
+.footer{
+	padding: 80px 0;
+	background-color: black;
+	color: white;
+}
+
+.menu-footer ul li a{
+	text-decoration: none;
+	color: white;
+}
+.menu-footer ul li a:hover{
+	color: yellow;
+	transition: 0.4s;
+}
+.menu-footer ul li{
+	list-style: none;
+}
